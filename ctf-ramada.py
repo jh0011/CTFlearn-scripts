@@ -12,7 +12,7 @@ import numpy as np
 list_of_hex_data = ["13693", "6b2c0", "11a9f9", "157000", "1cb91", "1bb528", "1bb528", "ded21", "144f38", "fb89d", "169b48", 
 "d151f", "8b98b", "17d140", "ded21", "1338c0", "1338c0", "11a9f9", "1b000", "144f38", "1734eb"]
 
-# Initialise an empyt list
+# Initialise an empty list
 list_of_int_converted = [0]*21
 
 # Convert the hex to decimal
